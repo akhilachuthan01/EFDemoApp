@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EFDataAccessLibrary/obj
+/EFDataAccessLibrary/bin/Debug/netstandard2.0
+/EFDemoWeb/bin/Debug/netcoreapp3.1
+/EFDemoWeb/obj
+/.vs/EFDemoApp/v16
